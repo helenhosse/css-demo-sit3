@@ -1,2 +1,2 @@
-# css-demo-sit3
+# css-demo-site
 challenge 1 bootcamp
